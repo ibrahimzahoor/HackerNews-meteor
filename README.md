@@ -1,1 +1,2 @@
-# HackerNews Clone Meteor
+# Hacker News Clone Meteor
+$meteor
